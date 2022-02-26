@@ -56,7 +56,7 @@ public class Sketch extends PApplet {
     ellipse(125, 65, 20, 20);
     ellipse(140, 42, 20, 20);
     ellipse(140, 62, 20, 20);
-     ellipse(155, 48, 20, 20);
+    ellipse(155, 48, 20, 20);
     ellipse(155, 68, 20, 20);
     ellipse(165, 60, 20, 20);
   }
