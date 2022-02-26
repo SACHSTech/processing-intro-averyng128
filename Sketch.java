@@ -47,18 +47,18 @@ public class Sketch extends PApplet {
     fill(200, 170, 150);
     ellipse(240, 350, 7, 7);
 
-   // cloud
-   fill(255);
-   ellipse(100, 50, 20, 20);
-   ellipse(115, 40, 20, 20);
-   ellipse(112, 60, 20, 20);
-   ellipse(125, 45, 20, 20);
-   ellipse(125, 65, 20, 20);
-   ellipse(140, 42, 20, 20);
-   ellipse(140, 62, 20, 20);
-   ellipse(155, 48, 20, 20);
-   ellipse(155, 68, 20, 20);
-   ellipse(165, 60, 20, 20);
+    // cloud
+    fill(255);
+    ellipse(100, 50, 20, 20);
+    ellipse(115, 40, 20, 20);
+    ellipse(112, 60, 20, 20);
+    ellipse(125, 45, 20, 20);
+    ellipse(125, 65, 20, 20);
+    ellipse(140, 42, 20, 20);
+    ellipse(140, 62, 20, 20);
+     ellipse(155, 48, 20, 20);
+    ellipse(155, 68, 20, 20);
+    ellipse(165, 60, 20, 20);
   }
   
 }
